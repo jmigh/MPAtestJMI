@@ -1,2 +1,4 @@
 MPAtestJMI
 ==========
+
+test .travis.yml
